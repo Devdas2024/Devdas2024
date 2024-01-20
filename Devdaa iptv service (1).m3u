@@ -670,3 +670,22 @@ https://livess.jagobd.com.bd/live-orgin/rajdhanitv.stream/chunks.m3u8
 https://iptvbd.live/test/1080.m3u8
 #EXTINF:-1 ,Nexus tv
 https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
+#EXTINF:-1 ,Zee bangla cinema 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
+#EXTINF:-1 ,Iqra Bangla 
+http://208.86.19.13:81/507.stream/index.m3u8
+#EXTINF:-1 ,Maq tv 
+http://208.86.19.13:81/517.stream/index.m3u8
+#EXTINF:-1 ,Zee 24 gonta
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
+#EXTINF:-1 ,Kappa tv movies 
+http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
+#EXTINF:-1 ,Nandan tv
+https://web.nandansyst.com/hls/nandan_mid/index.m3u8
+#EXTINF:-1 ,Deshi tv
+http://208.86.19.13:81/514.stream/index.m3u8
+#EXTINF:-1 ,Bangla jago
+http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
+#EXTINF:-1 ,Tbn24 bangla
+https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
+
