@@ -608,3 +608,65 @@ http://cdn01.palki.tv:80/live/NTV-M/index.fmp4.m3u8
 https://livess.jagobd.com.bd/live-orgin/ntvuk00332211.stream/playlist.m3u8
 #EXTINF:-1 ,News 24
 http://cdn01.palki.tv:80/live/News24-M/index.fmp4.m3u8
+#EXTINF:-1 ,Hotflix 
+https://apps.hotflixbd.online/hotflix/live/index.m3u8
+#EXTINF:-1 ,Bflix Movies 
+http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
+#EXTINF:-1 ,Spacetoon 
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
+#EXTINF:-1 ,Espn vivo
+http://45.166.92.22:58001/play/a01g/index.m3u8
+#EXTINF:-1 ,Espn 2
+http://45.166.92.22:58001/play/a01i/index.m3u8
+#EXTINF:-1 ,Eventtv
+https://edge4-moblive.yuppcdn.net/transsd/smil:eventtv.smil/playlist.m3u8
+#EXTINF:-1 ,&flix
+http://89.187.177.137:8081/&FLIX/index.m3u8
+#EXTINF:-1 ,WWE Network 
+http://193.58.152.27:7788/WWE/index.m3u8
+#EXTINF:-1 ,travelxp 
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,History HD
+http://38.96.178.201/live/History/index.m3u8
+#EXTINF:-1 ,Discovery HD
+http://38.96.178.201/live/Discovery/index.m3u8
+#EXTINF:-1 ,Net geographic HD
+http://146.59.19.1:80/5058/index.m3u8
+#EXTINF:-1 ,AXN
+http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
+#EXTINF:-1 ,Telecine Action 
+http://199.127.60.83:16056/TelecineAction
+#EXTINF:-1 ,PSN 1
+http://202.21.104.6:88/sps-prime/index.m3u8
+#EXTINF:-1 ,PSN 2
+http://202.21.104.6:88/sps-play/index.m3u8
+#EXTINF:-1 ,PSN 3
+http://202.21.104.6:88/sps-world/index.m3u8
+#EXTINF:-1 ,PSN 4
+http://202.21.104.6:88/sps-action/index.m3u8
+#EXTINF:-1 ,Premier sports 4
+http://202.21.104.6:88/sps-action/index.m3u8
+#EXTINF:-1 ,Willow HD sports 
+https://sportsleading.online/live/stream_e1.m3u8
+#EXTINF:-1 ,Bangla tv uk
+http://208.86.19.13:81/504.stream/index.m3u8
+#EXTINF:-1 ,TnT sports tv HD
+https://headlinessportsfoot.com/chunklist/hlsch1.m3u8
+#EXTINF:-1 ,Tigo sports tv
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+#EXTINF:-1 ,Net geo Wild HD 
+http://tv.cloudcdn.me/live/00:1A:79:17:C0:8F/SN_1697176355/177.m3u8
+#EXTINF:-1 ,Sony channel 
+http://cdn.teambr.live:80/live/6386006/3781192/121.m3u8
+#EXTINF:-1 ,Dangal tv (hindi)
+https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8
+#EXTINF:-1 ,Hindihits HD (music)
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:-1 ,Sun bangla cinema HD
+https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
+#EXTINF:-1 ,Rajdhani tv
+https://livess.jagobd.com.bd/live-orgin/rajdhanitv.stream/chunks.m3u8
+#EXTINF:-1 ,Eten tv music 
+https://iptvbd.live/test/1080.m3u8
+#EXTINF:-1 ,Nexus tv
+https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
